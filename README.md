@@ -30,11 +30,11 @@
 1. Download the `.dmg` from the [latest release](../../releases/latest), open it, and drag **Mox** onto the Applications folder.
 2. The first time you open it, macOS stops it because it isn't notarised by Apple yet. Click **Done**, then open **System Settings → Privacy & Security** and choose **Open Anyway** next to Mox.
 
-Mox needs a Mac with Apple silicon (M1 or later) and macOS 14 Sonoma or newer. It checks this page for updates when it opens and installs them for you. Your artwork and projects never leave your Mac.
+Mox needs a Mac with Apple silicon (M1 or later) and macOS 14 Sonoma or newer. It checks this page for updates when it opens and installs them for you. Each beta build works for 90 days; every update resets the clock. Your artwork and projects never leave your Mac.
 
 ## Feedback
 
-Found a bug or have an idea? Use the ladybug button in Mox's toolbar to send a note with a picture of what you're seeing.
+Found a bug or have an idea? Use the ladybug button in Mox's toolbar to send a note with a picture of what you're seeing. To tell us how the beta's going, choose **Help → Mox Beta Survey…** (eight quick questions).
 
 ## Licence
 
