@@ -35,3 +35,7 @@ Mox needs a Mac with Apple silicon (M1 or later) and macOS 14 Sonoma or newer. I
 ## Feedback
 
 Found a bug or have an idea? Use the ladybug button in Mox's toolbar to send a note with a picture of what you're seeing.
+
+## Licence
+
+Mox is free to download and use during the beta. It is proprietary software: © 2026 Hybert Design, all rights reserved. You may not redistribute, modify or resell it. Future versions may be paid.
