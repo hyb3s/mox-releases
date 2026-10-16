@@ -27,7 +27,7 @@
 
 ## Install
 
-1. Download the `.zip` from the [latest release](../../releases/latest), unzip it, and drag **Mox** into Applications.
+1. Download the `.dmg` from the [latest release](../../releases/latest), open it, and drag **Mox** onto the Applications folder.
 2. The first time you open it, macOS stops it because it isn't notarised by Apple yet. Click **Done**, then open **System Settings → Privacy & Security** and choose **Open Anyway** next to Mox.
 
 Mox needs a Mac with Apple silicon (M1 or later) and macOS 14 Sonoma or newer. It checks this page for updates when it opens and installs them for you. Your artwork and projects never leave your Mac.
